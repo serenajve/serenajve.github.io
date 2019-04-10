@@ -8,12 +8,13 @@ p {
 
 }#container2 {
   background-image: linear-gradient(blue, orange);
-  width: 70%;
-  height: 70%;
+  width: 700px;
+  height: 700px;
+
 }
 
 }#container3 {
   background-image: linear-gradient(gray, yellow);
-  width: 50%;
-  height: 50%;
+  width: 500px;
+  height: 500px;
 }
