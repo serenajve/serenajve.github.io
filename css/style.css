@@ -6,15 +6,29 @@ p {
   background-image: linear-gradient(red, yellow);
 }
 
-}#container2 {
-  background-image: linear-gradient(blue, orange);
+#container2 {
+  background-image: linear-gradient(black, orange);
   width: 700px;
   height: 700px;
 
+
 }
 
-}#container3 {
+#container3 {
   background-image: linear-gradient(gray, yellow);
   width: 500px;
   height: 500px;
+  position: relative;
+  left: 500px;
+  top:-300px;
+
+}
+
+#me {
+	width: 300px;
+	left: 10%;
+	top: 18%;
+	position: relative;
+
+
 }
