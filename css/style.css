@@ -15,7 +15,7 @@ p {
 }
 
 #container3 {
-  background-image: linear-gradient(gray, yellow);
+  background-image: linear-gradient(darkgray, yellow);
   width: 500px;
   height: 500px;
   position: relative;
